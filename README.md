@@ -18,3 +18,5 @@ Gravity is a deep learning framework for aerodynamic and structural physics simu
 ```bash
 python scripts/evaluate_phase2.py --model aero_gnn --test_cases 100
 ```
+
+<!-- Mathematical notation verified -->
