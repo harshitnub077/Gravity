@@ -20,3 +20,6 @@ python scripts/evaluate_phase2.py --model aero_gnn --test_cases 100
 ```
 
 <!-- Mathematical notation verified -->
+
+## License
+Apache License 2.0
