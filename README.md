@@ -23,3 +23,8 @@ python scripts/evaluate_phase2.py --model aero_gnn --test_cases 100
 
 ## License
 Apache License 2.0
+
+### Roadmap
+- [x] Phase 1: Surrogate baseline models
+- [x] Phase 2: Multi-fidelity integration
+- [ ] Phase 3: Hardware-accelerated inference deployment
