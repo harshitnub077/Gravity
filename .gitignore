@@ -1,0 +1,6 @@
+
+# Model checkpoints
+*.pt
+*.pth
+*.onnx
+checkpoints/
