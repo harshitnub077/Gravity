@@ -28,3 +28,5 @@ Apache License 2.0
 - [x] Phase 1: Surrogate baseline models
 - [x] Phase 2: Multi-fidelity integration
 - [ ] Phase 3: Hardware-accelerated inference deployment
+
+<!-- Enhanced simulation notes -->
