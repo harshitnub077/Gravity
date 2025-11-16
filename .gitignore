@@ -14,3 +14,7 @@ data/raw/*.png
 __pycache__/
 *.pyc
 .pytest_cache/
+
+# Logging
+*.log
+events.out.tfevents.*
