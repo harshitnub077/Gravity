@@ -4,3 +4,8 @@
 *.pth
 *.onnx
 checkpoints/
+
+# Simulation data
+*.npz
+*.h5
+data/raw/*.png
