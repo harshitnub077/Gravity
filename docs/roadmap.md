@@ -28,3 +28,4 @@
 <!-- [2025-11-17T17:09:42+05:30] docs: document GNN vs CNN trade-offs in benchmark results -->
 <!-- [2025-11-17T18:18:59+05:30] style: standardize training epoch progress formatting -->
 <!-- [2025-11-17T19:27:16+05:30] test: add convergence test assertions for thermal solver -->
+<!-- [2025-11-17T20:36:33+05:30] docs: update Phase 2 simulation milestone checklist -->
