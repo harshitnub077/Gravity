@@ -26,3 +26,4 @@
 <!-- [2025-11-17T14:51:08+05:30] feat: add Physics-Informed residual loss formulation -->
 <!-- [2025-11-17T16:00:25+05:30] fix: correct gradient scaling during multi-epoch evaluation -->
 <!-- [2025-11-17T17:09:42+05:30] docs: document GNN vs CNN trade-offs in benchmark results -->
+<!-- [2025-11-17T18:18:59+05:30] style: standardize training epoch progress formatting -->
