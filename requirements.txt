@@ -1,0 +1,4 @@
+
+# Additional numerical utilities
+tqdm>=4.65.0
+pandas>=2.0.0
