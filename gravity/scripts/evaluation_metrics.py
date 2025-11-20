@@ -8,3 +8,7 @@ def relative_l2_error(y_true, y_pred):
 
 def mean_squared_error(y_true, y_pred):
     return float(np.mean((y_true - y_pred) ** 2))
+
+def compute_lift_drag_ratio(lift, drag):
+    if drag <= 0: return 0.0
+    return float(lift / drag)
