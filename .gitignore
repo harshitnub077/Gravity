@@ -18,3 +18,5 @@ __pycache__/
 # Logging
 *.log
 events.out.tfevents.*
+
+# Temporary scratch
