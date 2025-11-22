@@ -7,3 +7,5 @@
 ## [Phase 2]
 - Multi-physics coupling (Aero + Structural + Thermal)
 - Physics-Informed loss convergence validation
+
+<!-- WIP: upcoming patch notes -->
