@@ -9,3 +9,5 @@
 - Physics-Informed loss convergence validation
 
 <!-- WIP: upcoming patch notes -->
+
+<!-- Patched release tag documentation -->
