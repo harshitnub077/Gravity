@@ -114,3 +114,5 @@ Apache License 2.0
 <!-- Verified documentation structure -->
 
 <!-- Cleaned code snippet indentations -->
+
+<!-- Polished badge alignment -->
