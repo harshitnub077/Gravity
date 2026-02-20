@@ -9,3 +9,5 @@ SUTHERLAND_C1 = 1.458e-6  # kg/(m*s*sqrt(K))
 SUTHERLAND_S = 110.4  # Kelvin
 
 // Clean up physical constants and comments
+
+# Verified thermodynamic constants
